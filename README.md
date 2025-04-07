@@ -1,2 +1,43 @@
 # Netflix-Data-Cleaning-Task1
 NETFLIX DATA CLEANING CODE
+Netflix Data Cleaning Project
+
+This project is part of the Data Analyst Internship. The objective was to clean and preprocess a raw Netflix dataset using Python libraries like Pandas. The cleaned data can now be used for further analysis or visualization.
+
+Steps Performed:
+
+Handled missing values in columns like country, rating, cast, and director
+
+Converted the date_added column to proper datetime format
+
+Extracted year_added and month_added from date_added
+
+Separated duration into duration_int (number) and duration_type (minutes, seasons)
+
+Removed duplicate entries from the dataset
+
+Exported the final cleaned dataset to a CSV file
+
+Files to be included in the GitHub repository:
+
+Netflix Data Cleaning.ipynb — The Jupyter notebook with all cleaning code
+netflix_cleaned.csv — The cleaned dataset
+README.txt — This summary file
+
+Submission Steps:
+
+Upload the Jupyter notebook, cleaned dataset, and README file to your GitHub repository
+
+The files are clearly named and easy to find
+
+Submit the GitHub repo link through the Google Form provided
+
+Tools Used:
+
+Python
+Pandas
+Jupyter Notebook
+
+Author:
+Mohd Kaunain
+Data Analyst Intern, 2025
